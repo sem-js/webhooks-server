@@ -1,0 +1,19 @@
+{
+  "name": "webhooks-server",
+  "version": "0.0.0",
+  "description": "Webhooks server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sem-js/webhooks-server.git"
+  },
+  "author": "SEM.js study group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sem-js/webhooks-server/issues"
+  },
+  "homepage": "https://github.com/sem-js/webhooks-server#readme"
+}
